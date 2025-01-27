@@ -1,0 +1,3 @@
+string = "apple,banana,cat,dog,elephant,fish,grape,hat,ice,jump,kite,lion,monkey,nest,orange,pen,queen,rose,sun,tree,umbrella,van,water,xylophone,yarn,zebra,ant,ball,cloud,desk,egg,fan,guitar,house,idea,jelly,kangaroo,lemon,mountain,notebook,ocean,pencil,quilt,rabbit,snake,tiger,unicorn,violin,whale,x-ray,yellow,zoo,airplane,boat,car,door,eagle,feather,giraffe,hill,island,jacket,key,lamp,moon,night,octopus,pizza,quokka,river,ship,train,umbrella,volcano,wind,xenon,yogurt,zombie,arm,bridge,cake,dragon,ear,flag,garden,hammer,iguana,jewel,knot,leaf,mango,ninja,owl,paint,queen,rain"
+words_dictionary=string.split(',')
+# print(words_dictionary)
